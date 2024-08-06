@@ -11,13 +11,13 @@ Aplicación básica de inicio de sesión con Google usando C# que muestra el nom
 * UIAutomationClient y UIAutomationTypes agregados como referencias
 * Una cuenta de Google Cloud con las credenciales de OAuth 2.0 configuradas
 ## Agregar referencias de UIAutomationClient y UIAutomationTypes
-1 Abre tu proyecto en Visual Studio.
-2 En el Explorador de Soluciones, haz clic derecho en el nombre del proyecto y
-3 selecciona Add > Reference.
-4 En la ventana Reference Manager, navega a Assemblies > Framework.
-5 Busca y selecciona UIAutomationClient y UIAutomationTypes.
-6 Haz clic en OK para agregar las referencias a tu proyecto.
-7  Estas bibliotecas son necesarias para interactuar con la interfaz de usuario de Chrome y obtener el código de autorización automáticamente.
+* Abre tu proyecto en Visual Studio.
+* En el Explorador de Soluciones, haz clic derecho en el nombre del proyecto y
+* selecciona Add > Reference.
+* En la ventana Reference Manager, navega a Assemblies > Framework.
+* Busca y selecciona UIAutomationClient y UIAutomationTypes.
+* Haz clic en OK para agregar las referencias a tu proyecto.
+Estas bibliotecas son necesarias para interactuar con la interfaz de usuario de Chrome y obtener el código de autorización automáticamente.
 
 ## Configuración de Google Cloud
 * Paso 1: Crear un proyecto en Google Cloud
